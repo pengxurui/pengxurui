@@ -5,7 +5,7 @@ Hey guys, I'm Peng XuRui, an Android developer from China.
 - 🔭 I’m currently working on [Juejin Blog](https://juejin.cn/user/1063982987230392).
 - 🌱 I’m currently learning Flutter.
 - 💬 Ask me about anything [here](https://github.com/pengxurui/pengxurui/issues), I'm happy to help.
-- 📫 How to reach me: [WeChat](https://raw.githubusercontent.com/pengxurui/Android-NoteBook/master/images/%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1.jpeg).
+- 📫 How to reach me: [WeChat](https://raw.githubusercontent.com/pengxurui/Android-NoteBook/master/images/%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1.jpeg) or [WeChat Group](https://github.com/pengxurui/Android-NoteBook/blob/master/images/%E7%BE%A4%E4%BA%8C%E7%BB%B4%E7%A0%81.jpeg).
 
 #### A few Links:
 
@@ -13,6 +13,7 @@ Hey guys, I'm Peng XuRui, an Android developer from China.
 - [简书](https://www.jianshu.com/u/d9761b0d1618)
 - [微信公众号](https://github.com/pengxurui/Android-NoteBook/blob/master/images/%E5%85%AC%E4%BC%97%E5%8F%B7.jpg)
 - [WeChat](https://raw.githubusercontent.com/pengxurui/Android-NoteBook/master/images/%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1.jpeg)
+- [WeChat Group](https://github.com/pengxurui/Android-NoteBook/blob/master/images/%E7%BE%A4%E4%BA%8C%E7%BB%B4%E7%A0%81.jpeg)
 
 #### Languages and Tools:
 
