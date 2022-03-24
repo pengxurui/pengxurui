@@ -23,9 +23,10 @@ Hey guys, I'm Peng XuRui, an Android developer from China.
 
 Tip: Most Used languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
 
-![小彭的读者群](https://github.com/pengxurui/Android-NoteBook/blob/master/images/%E5%B0%8F%E5%BD%AD%E7%9A%84%E8%AF%BB%E8%80%85%E7%BE%A4.png)
+![小彭的微信](https://github.com/pengxurui/Android-NoteBook/blob/master/images/%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1.jpeg)
 
-> **提示：** 二维码只有七天有效期，过期可以加我微信进群哦
+> **提示：** 加小彭微信进 Android 交流群，这里有 Android 进阶成长路线笔记 & 博客，有志同道合的朋友。
+
 
 <!--
 **pengxurui/pengxurui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
