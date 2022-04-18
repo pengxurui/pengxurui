@@ -5,7 +5,7 @@
 
 Hey guys, I'm Peng Xurui, an Android developer from China.
 
-- 🔭 I’m currently working on [Juejin Blog](https://juejin.cn/user/1063982987230392).
+- 🔭 I’m currently working on [AndroidPlatformWiki](https://github.com/pengxurui/AndroidPlatformWiki).
 - 🌱 I’m currently learning Flutter.
 - 💬 Ask me about anything [here](https://github.com/pengxurui/pengxurui/issues), I'm happy to help.
 - 📫 How to reach me: [WeChat](https://github.com/pengxurui/Android-NoteBook/raw/master/images/个人微信.jpeg) or [WeChat Group](https://github.com/pengxurui/Android-NoteBook/raw/master/images/搜一搜公众号.png).
