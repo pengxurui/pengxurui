@@ -3,12 +3,12 @@
 
 ### Hi there 👋
 
-Hey guys, I'm Peng Xurui, an Android developer from China.
-
-- 🔭 I’m currently working on [AndroidPlatformWiki](https://github.com/pengxurui/AndroidPlatformWiki).
-- 🌱 I’m currently learning Flutter.
-- 💬 Ask me about anything [here](https://github.com/pengxurui/pengxurui/issues), I'm happy to help.
-- 📫 How to reach me: [WeChat](https://github.com/pengxurui/Android-NoteBook/raw/master/images/个人微信.jpeg) or [WeChat Group](https://github.com/pengxurui/Android-NoteBook/raw/master/images/搜一搜公众号.png).
+简单介绍一下自己：
+- Hi，我是小彭，一名活跃在 Android 社区的安卓搬砖师，掘金 Lv4 作者，掘金 / 简书优秀创作者，全网文章阅读 40 W+；
+- 95 后，目前离职待业；
+- 我最近在维护 [AndroidPlatformWiki](https://github.com/pengxurui/AndroidPlatformWiki) 仓库；
+- 寻找热爱分享，热爱技术的小伙伴，我们有一个 Android 交流群，小凳子给你留好了，欢迎进群；
+- 扫描二维码 [微信](https://github.com/pengxurui/Android-NoteBook/raw/master/images/个人微信.jpeg) 或 [公众号](https://github.com/pengxurui/Android-NoteBook/raw/master/images/搜一搜公众号.png) 可以找到我。
 
 #### A few Links:
 
