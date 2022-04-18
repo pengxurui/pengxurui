@@ -1,19 +1,24 @@
-### Hi there, I'm Peng XuRui! 👋
-<br><br>
-Hey guys, I'm Peng XuRui, an Android developer from China.
+
+![头图](https://github.com/pengxurui/Android-NoteBook/raw/master/images/船底座星云.jpg)
+
+### Hi there 👋
+
+Hey guys, I'm Peng Xurui, an Android developer from China.
 
 - 🔭 I’m currently working on [Juejin Blog](https://juejin.cn/user/1063982987230392).
 - 🌱 I’m currently learning Flutter.
 - 💬 Ask me about anything [here](https://github.com/pengxurui/pengxurui/issues), I'm happy to help.
-- 📫 How to reach me: [WeChat](https://raw.githubusercontent.com/pengxurui/Android-NoteBook/master/images/%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1.jpeg) or [WeChat Group](https://github.com/pengxurui/Android-NoteBook/blob/master/images/%E7%BE%A4%E4%BA%8C%E7%BB%B4%E7%A0%81.jpeg).
+- 📫 How to reach me: [WeChat](https://github.com/pengxurui/Android-NoteBook/raw/master/images/个人微信.jpeg) or [WeChat Group](https://github.com/pengxurui/Android-NoteBook/raw/master/images/搜一搜公众号.png).
 
 #### A few Links:
 
-- [掘金](https://juejin.cn/user/1063982987230392)
-- [简书](https://www.jianshu.com/u/d9761b0d1618)
-- [微信公众号](https://github.com/pengxurui/Android-NoteBook/blob/master/images/%E5%85%AC%E4%BC%97%E5%8F%B7.jpg)
-- [WeChat](https://raw.githubusercontent.com/pengxurui/Android-NoteBook/master/images/%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1.jpeg)
-- [WeChat Group](https://github.com/pengxurui/Android-NoteBook/blob/master/images/%E7%BE%A4%E4%BA%8C%E7%BB%B4%E7%A0%81.jpeg)
+- 微信：微信搜索 [xurui0801]
+- 公众号：微信搜索 [彭旭锐]
+- 掘金：https://juejin.im/user/1063982987230392
+- 简书：https://www.jianshu.com/u/d9761b0d1618
+- 头条：https://www.toutiao.com/c/user/102880980905
+- 知乎：https://www.zhihu.com/people/di-san-ci-ai-qing
+- CSDN：https://blog.csdn.net/pengxurui
 
 #### Languages and Tools:
 
@@ -23,7 +28,9 @@ Hey guys, I'm Peng XuRui, an Android developer from China.
 
 Tip: Most Used languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
 
-![小彭的微信](https://github.com/pengxurui/Android-NoteBook/blob/master/images/%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1.jpeg)
+![个人微信](https://github.com/pengxurui/Android-NoteBook/raw/master/images/个人微信.jpeg)
+
+![公众号](https://github.com/pengxurui/Android-NoteBook/raw/master/images/搜一搜公众号.png)
 
 > **提示：** 加小彭微信进 Android 交流群，这里有 Android 进阶成长路线笔记 & 博客，有志同道合的朋友。
 
