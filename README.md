@@ -17,7 +17,7 @@ Hey guys, I'm Peng Xurui, an Android developer from China.
 - 掘金：https://juejin.im/user/1063982987230392
 - 简书：https://www.jianshu.com/u/d9761b0d1618
 - 头条：https://www.toutiao.com/c/user/102880980905
-- 知乎：https://www.zhihu.com/people/di-san-ci-ai-qing
+- 知乎：https://www.zhihu.com/people/pengxurui
 - CSDN：https://blog.csdn.net/pengxurui
 
 #### Languages and Tools:
@@ -28,9 +28,14 @@ Hey guys, I'm Peng Xurui, an Android developer from China.
 
 Tip: Most Used languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
 
-![个人微信](https://github.com/pengxurui/Android-NoteBook/raw/master/images/个人微信.jpeg)
+<p align='center'>
+<img src="https://github.com/pengxurui/Android-NoteBook/raw/master/images/个人微信.jpeg" width = "300" />
+</p>
 
-![公众号](https://github.com/pengxurui/Android-NoteBook/raw/master/images/搜一搜公众号.png)
+<p align='center'>
+<img src="https://github.com/pengxurui/Android-NoteBook/raw/master/images/搜一搜公众号.png" width = "600" />
+</p>
+
 
 > **提示：** 加小彭微信进 Android 交流群，这里有 Android 进阶成长路线笔记 & 博客，有志同道合的朋友。
 
