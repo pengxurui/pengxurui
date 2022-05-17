@@ -4,7 +4,7 @@
 ### Hi there 👋
 
 简单介绍一下自己：
-- Hi，我是小彭，一名活跃在 Android 社区的安卓搬砖师，掘金 Lv4 作者，掘金 / 简书优秀创作者，全网文章阅读 50 W+；
+- Hi，我是小彭，一名活跃在 Android 社区的安卓搬砖师，掘金 Lv4 作者，掘金 / 简书优秀创作者，全网文章阅读 60 W+；
 - 95 后，目前离职待业；
 - 我最近在维护 [AndroidPlatformWiki](https://github.com/pengxurui/AndroidPlatformWiki) 仓库；
 - 寻找热爱分享，热爱技术的小伙伴，我们有一个 Android 交流群，小凳子给你留好了，欢迎进群；
