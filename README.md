@@ -10,6 +10,8 @@
 - 寻找热爱分享，热爱技术的小伙伴，我们有一个 Android 交流群，小凳子给你留好了，欢迎进群；
 - 扫描二维码 [微信](https://github.com/pengxurui/Android-NoteBook/raw/master/images/个人微信.jpeg) 或 [公众号](https://github.com/pengxurui/Android-NoteBook/raw/master/images/搜一搜公众号.png) 可以找到我。
 
+[![](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin?id=1063982987230392&limit=3)](https://juejin.cn/user/1063982987230392/posts)
+
 #### A few Links:
 
 - 微信：微信搜索 [xurui0801]
@@ -19,10 +21,6 @@
 - 头条：https://www.toutiao.com/c/user/102880980905
 - 知乎：https://www.zhihu.com/people/pengxurui
 - CSDN：https://blog.csdn.net/pengxurui
-
-
-
-[![](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin?id=1063982987230392&limit=3)](https://juejin.cn/user/1063982987230392/posts)
 
 #### Languages and Tools:
 
