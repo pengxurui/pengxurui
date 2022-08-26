@@ -49,17 +49,14 @@
 
 Tip: Most Used languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
 
-<p align='center'>
-<img src="https://github.com/pengxurui/Android-NoteBook/raw/master/images/个人微信.jpeg" width = "300" />
-</p>
-
-<p align='center'>
-<img src="https://github.com/pengxurui/Android-NoteBook/raw/master/images/搜一搜公众号.png" width = "600" />
+<p align='left'>
+  <a href="https://juejin.cn/user/1063982987230392" target="_blank">
+    <img src="https://github.com/pengxurui/AndroidFamily/blob/master/images/%E7%AD%BE%E7%BA%A6%E6%B5%B7%E6%8A%A5.jpeg">
+  </a>
 </p>
 
 
 > **提示：** 加小彭微信进 Android 交流群，这里有 Android 进阶成长路线笔记 & 博客，有志同道合的朋友。
-
 
 <!--
 **pengxurui/pengxurui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
