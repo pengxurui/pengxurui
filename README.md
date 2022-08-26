@@ -58,6 +58,12 @@ Tip: Most Used languages does not indicate my skill level or something like that
 
 > **提示：** 加小彭微信进 Android 交流群，这里有 Android 进阶成长路线笔记 & 博客，有志同道合的朋友。
 
+---
+
+如果本仓库对你有帮助，可以请小彭喝杯速溶咖啡。
+
+![](https://github.com/pengxurui/AndroidFamily/blob/master/images/%E8%AF%B7%E5%B0%8F%E5%BD%AD%E5%96%9D%E6%9D%AF%E9%80%9F%E6%BA%B6%E5%92%96%E5%95%A1.png)
+
 <!--
 **pengxurui/pengxurui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
