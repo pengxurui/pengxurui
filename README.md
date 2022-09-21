@@ -6,11 +6,13 @@
 简单介绍一下自己：
 - Hi，我是小彭，一名活跃在 Android 社区的安卓搬砖师，掘金签约作者，头条 / 简书优秀创作者，全网文章阅读 80 W+；
 - 95 后，坐标深圳；
-- 我最近在维护 [AndroidFamily](https://github.com/pengxurui/AndroidFamily) 项目；
 - 寻找热爱分享，热爱技术的小伙伴，我们有一个 Android 交流群，小凳子给你留好了，欢迎进群；
 - 扫描 [微信](https://github.com/pengxurui/Android-NoteBook/raw/master/images/个人微信.jpeg) 或 [公众号](https://github.com/pengxurui/Android-NoteBook/raw/master/images/搜一搜公众号.png) 二维码可以找到我。
 
-[![](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin?id=1063982987230392&limit=3)](https://juejin.cn/user/1063982987230392/posts)
+### 目前专注于输出 [AndroidFamily](https://github.com/pengxurui/AndroidFamily) 体系化文章，欢迎关注！
+
+[![](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin/1063982987230392/1)](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin/1063982987230392/1)[![](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin/1063982987230392/3)](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin/1063982987230392/3)[![](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin/1063982987230392/5)](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin/1063982987230392/5) | [![](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin/1063982987230392/2)](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin/1063982987230392/2)[![](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin/1063982987230392/4)](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin/1063982987230392/4)[![](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin/1063982987230392/6)](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin/1063982987230392/6)
+---|---
 
 #### A few Links（Click them）:
 
@@ -39,13 +41,12 @@
   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/jianshu-简书-orange.svg?style=flat">
   </a>
+  <a href="https://www.github.com/pengxurui" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=pengxurui&style=flat&label=Views">
+  </a>
 </p>
 
-#### Languages and Tools:
-
-<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" style="max-width:100%;"></a></code> <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" style="max-width:100%;"></a></code> <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" style="max-width:100%;"></a></code> <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" style="max-width:100%;"></a></code> 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pengxurui)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pengxurui&count_private=true&show_icons=true&theme=clam)](https://github.com/anuraghazra/github-readme-stats) ![](https://komarev.com/ghpvc/?username=pengxurui&style=flat&label=👁%20Views)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pengxurui)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pengxurui&count_private=true&show_icons=true&theme=clam)](https://github.com/anuraghazra/github-readme-stats) 
 
 Tip: Most Used languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
 
