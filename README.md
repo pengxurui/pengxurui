@@ -9,7 +9,7 @@
 - 寻找热爱分享，热爱技术的小伙伴，我们有一个 Android 交流群，小凳子给你留好了，欢迎进群；
 - 扫描 [微信](https://github.com/pengxurui/Android-NoteBook/raw/master/images/个人微信.jpeg) 或 [公众号](https://github.com/pengxurui/Android-NoteBook/raw/master/images/搜一搜公众号.png) 二维码可以找到我。
 
-### 目前专注于输出 [AndroidFamily](https://github.com/pengxurui/AndroidFamily) 体系化文章，欢迎关注！
+### 目前专注于输出 [AndroidFamily](https://github.com/pengxurui/AndroidFamily) 体系化文章和 [AndroidPlatforms](https://github.com/pengxurui/AndroidPlatforms) 适配指南，欢迎关注！
 
 [![](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin/1063982987230392/0?width=550)](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin/1063982987230392/0)[![](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin/1063982987230392/1?width=550)](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin/1063982987230392/1)[![](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin/1063982987230392/2?width=550)](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin/1063982987230392/2) | [![](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin/1063982987230392/3?width=550)](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin/1063982987230392/3)[![](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin/1063982987230392/4?width=550)](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin/1063982987230392/4)[![](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin/1063982987230392/5?width=550)](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin/1063982987230392/5)
 ---|---
