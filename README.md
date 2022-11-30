@@ -4,7 +4,7 @@
 ### Hi there 👋
 
 简单介绍一下自己：
-- Hi，我是小彭，一名活跃在 Android 社区的搬砖师，掘金签约作者，头条 / 简书优秀创作者，阿里云专家博主，全网文章阅读 100 W+；
+- Hi，我是小彭，一名活跃在 Android 社区的搬砖师，掘金签约作者，头条 / 简书优秀创作者，阿里云专家博主，全网文章阅读 100W+；
 - 95 后，坐标深圳；
 - 我们有一个 Android 交流群，寻找志同道合，热爱分享，热爱技术的小伙伴，欢迎进群（群宗旨：开放 · 纯粹 · 脑洞 · 互助）；
 - 扫描 [微信](https://github.com/pengxurui/Android-NoteBook/raw/master/images/个人微信.jpeg) 或 [公众号](https://github.com/pengxurui/Android-NoteBook/raw/master/images/搜一搜公众号.png) 二维码可以找到我。
